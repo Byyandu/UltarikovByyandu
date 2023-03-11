@@ -1,0 +1,9 @@
+p {
+    color: #000;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  p:hover {
+    color: blue;
+  }
